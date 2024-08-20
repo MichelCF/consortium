@@ -1,0 +1,16 @@
+{
+  "name": "consortium",
+  "version": "1.0.0",
+  "description": "A consortium application for learning typescript",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "npx tsc && node build/index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
